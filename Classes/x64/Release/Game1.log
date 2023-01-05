@@ -1,0 +1,111 @@
+﻿2DFrameWork.lib(ObImage.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(ObImage.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(ObImage.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+2DFrameWork.lib(Window.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Window.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Sound.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Sound.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Timer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Timer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(GameObject.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(GameObject.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(ObRect.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(ObRect.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Input.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Input.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Camera.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Camera.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Direct3D11.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Direct3D11.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Texture.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Texture.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Shader.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Shader.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Gui.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Gui.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Random.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Random.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Light.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Light.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(SceneManager.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(SceneManager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(ObStar.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(ObStar.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(ObCircle.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(ObCircle.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(ObLine.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(ObLine.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+2DFrameWork.lib(Utility.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+2DFrameWork.lib(Utility.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+msvcprtd.lib(locale0_implib.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(DirectXTexImage.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(DirectXTexImage.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(DirectXTexWIC.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(DirectXTexWIC.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(DirectXTexD3D11.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(DirectXTexD3D11.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(DirectXTexUtil.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(DirectXTexUtil.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(DirectXTexConvert.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(DirectXTexConvert.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(DirectXTexMipMaps.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(DirectXTexMipMaps.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(DirectXTexCompress.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(DirectXTexCompress.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(BC.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(BC.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(BC4BC5.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(BC4BC5.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+DirectXTex.lib(BC6HBC7.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+DirectXTex.lib(BC6HBC7.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+ImGui.lib(ImGuiFileDialog.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Map1.obj
+ImGui.lib(ImGuiFileDialog.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Map1.obj
+     Creating library C:\Users\lilpu\Desktop\PICOPARK-master\PICOPARK-master\x64\Release\Game1.lib and object C:\Users\lilpu\Desktop\PICOPARK-master\PICOPARK-master\x64\Release\Game1.exp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+2DFrameWork.lib(Random.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(SceneManager.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+DirectXTex.lib(DirectXTexMipMaps.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+ImGui.lib(ImGuiFileDialog.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(Direct3D11.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(Texture.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(Shader.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(Gui.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(ObImage.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(Sound.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(GameObject.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+2DFrameWork.lib(ObCircle.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(ObLine.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Utility.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+ImGui.lib(ImGuiFileDialog.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Random.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Light.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(SceneManager.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(ObStar.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Direct3D11.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Texture.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Shader.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Gui.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(GameObject.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(ObRect.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Input.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Camera.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(ObImage.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Sound.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Timer.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+2DFrameWork.lib(Random.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+2DFrameWork.lib(SceneManager.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+DirectXTex.lib(DirectXTexMipMaps.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+ImGui.lib(ImGuiFileDialog.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+2DFrameWork.lib(Direct3D11.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+2DFrameWork.lib(Texture.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+2DFrameWork.lib(Shader.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+2DFrameWork.lib(Gui.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+2DFrameWork.lib(ObImage.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+2DFrameWork.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+2DFrameWork.lib(Sound.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+2DFrameWork.lib(GameObject.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+msvcprtd.lib(locale0_implib.obj) : error LNK2001: unresolved external symbol __imp__free_dbg
+msvcprtd.lib(locale0_implib.obj) : error LNK2001: unresolved external symbol __imp__malloc_dbg
+C:\Users\lilpu\Desktop\PICOPARK-master\PICOPARK-master\x64\Release\Game1.exe : fatal error LNK1120: 5 unresolved externals
